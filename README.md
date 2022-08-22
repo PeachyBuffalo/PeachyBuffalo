@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeachyBuffalo
-- 👀 I’m interested in Soccer, Real Estate, Python, and Unsalted Beaches
-- 🌱 I have a basic understanding of Python and growing that knowledge daily
+- 👀 I’m spend my time playing Soccer, selling Real Estate, using Python, and weekends on Unsalted Beaches
+- 🌱 I have an understanding of Python and growing that knowledge daily. Also working on Cyber knowledge through CTFs.
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me: Twitter- ChillestMac
 
