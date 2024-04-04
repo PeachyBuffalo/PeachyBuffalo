@@ -1,5 +1,5 @@
 - 👋 Macall Smith:
-- 👀 Experienced in Python. Laravel TALL stack for web dev. C# with Unity for game dev. Arduino IDE for prototyping.
+- Currently Spending Time in Python, Laravel TALL stack for web dev, C# with Unity for game dev, and Arduino IDE for prototyping.
 - 🌱 For fun I am growing my Cyber knowledge through CTFs and 'Hack The Box' environments.
 - ML Projects: sign language recognition and portfolio analysis.
 - VG Projects: Fuzzy logic race car game, Minion Dodgeball, ASL Fingerspell/Gesture game, and text based rpgs.
